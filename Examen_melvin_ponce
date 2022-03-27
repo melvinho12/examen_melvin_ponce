@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ayro - Our Services</title>
+<link href="img/favicon.png" rel="shortcut icon">
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="css/bootstrap-custom.css" rel="stylesheet">
+<link  rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css">
+<link href="css/style.css" rel="stylesheet">
+
+<meta name="Description" content="This is how we can help you here at Ayro">
+<meta name="Keywords" content="about,services,our services">
+	
+	
+	
+	</head>
+<body>
+
+<header class="header-area">
+	<div class="container">
+		 
+
+		<nav class="navbar navbar-expand-lg navbar-light bg-light">
+
+			<a class="navbar-brand" href="index.html"><img src="img/logo-dark.png" class="img-fluid" width="80px" alt="logo"></a>
+
+
+		  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		  </button>
+
+		  <div class="collapse navbar-collapse" id="navbar">
+			<ul class="navbar-nav ms-auto">
+			  <li class="nav-item active">
+				<a class="nav-link" href="index.html">Home</a>
+			  </li>
+			  <li class="nav-item">
+				<a class="nav-link" href="#">Services</a>
+			  </li>
+			  <li class="nav-item">
+				<a class="nav-link" href="#">Portfolio</a>
+			  </li>
+			  <li class="nav-item">
+				<a class="nav-link" href="#">Blog</a>
+			  </li>
+			  <li class="nav-item">
+				<a class="nav-link" href="#">Shop</a>
+			  </li>
+			  <li class="nav-item">
+				<a class="nav-link" href="#">Contact</a>
+			  </li>
+			</ul>
+
+
+		  </div>
+		</nav>
+
+	</div>
+</header>
+
+<section id="hero-title">
+	<div class="container">
+		 
+	<h1>Our Services</h1>
+	</div>
+</section>
+	
+<section id="icons">
+	<div class="container">
+	<div class="row">
+		<article class="col-md-4 col-sm-12 col-12">
+		<i class="las la-envelope-open-text"></i>
+		<h2 class="title">Fast Support</h2>
+		<p>Hola este es el examen de melvin hahahaha tamo activo asi que esto es lo unico que quiero decir</p>
+		<h3 class="las la-check"></h3>
+		</article>
+		
+		<article class="col-md-4 col-sm-12 col-12">
+			<i class="las la-cloud-download-alt"></i>
+			<h2 class="title">Fast Support</h2>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet magni tenetur, quam accusantium dolor illum possimus quod tempora in at aliquid autem similique, atque error aspernatur, totam. Numquam doloribus, fugiat.</p>
+			<h3 class="las la-check"></h3>
+			</article>
+		</div>
+		</div>
+		</section>
+	
+	<section id="info">
+		<div class="container">
+		<h2 class="bold">See what we've been up to</h2>
+	    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto expedita id sunt omnis.</p>
+	    <div class="row">
+			<article class="col-md-3 col-sm-6 col-12">
+       <img src="img/Services-Single-Image-1.jpg" alt="work" class="img-fluid">
+				<h2 class="title">Contact Us</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis in sint fugiat facilis quam eius.</p>
+				</article>
+			
+			<article class="col-md-3 col-sm-6 col-12">
+				<img src="img/home-grid-image-3.jpg" alt="laptop" class="img-fluid">
+				<h2 class="title">Documentation</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis in sint fugiat facilis quam eius.</p>
+				</article>
+			
+			<article class="col-md-3 col-sm-6 col-12">
+				<img src="img/Services-Single-Image-3.jpg" alt="browse" class="img-fluid">
+				<h2 class="title">Awesome Support</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis in sint fugiat facilis quam eius.</p>
+				</article>
+			
+			<article class="col-md-3 col-sm-6 col-12">
+				<img src="img/Services-Single-Image-4.jpg" alt="office" class="img-fluid">
+				<h2 class="title">Office Working</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis in sint fugiat facilis quam eius.</p>
+				</article>
+			
+			</div>
+			</div>
+		</section>
+	
+	<section id="features">
+		<div class="row">
+			<article class="col-md-4 col-sm-12 col-12 card1">
+				<h2>Fully Responsive</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste voluptatum, voluptate. Ab odit commodi quas sapiente minima officia aliquam asperiores distinctio perspiciatis ea, sint illum consequatur delectus dolores iure, repellendus recusandae in debitis explicabo odio enim. </p>
+				<a href="#" class="btn btn-light">Read More</a>
+				</article>
+			
+			<article class="col-md-4 col-sm-12 col-12 card2">
+				<h2>WooCommerce Integrated</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste voluptatum, voluptate. Ab odit commodi quas sapiente minima officia aliquam asperiores distinctio perspiciatis ea, sint illum consequatur delectus dolores iure, repellendus recusandae in debitis explicabo odio enim. </p>
+				<a href="#" class="btn btn-dark">Read More</a>
+				</article>
+			<article class="col-md-4 col-sm-12 col-12 card3">
+				<h2>Pixel-Perfect Design</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste voluptatum, voluptate. Ab odit commodi quas sapiente minima officia aliquam asperiores distinctio perspiciatis ea, sint illum consequatur delectus dolores iure, repellendus recusandae in debitis explicabo odio enim. </p>
+				<a href="#" class="btn btn-dark">Read More</a>
+				</article>
+			
+			</div>
+		</section>
+<footer>
+	<div class="container">
+		<div class="row">		
+			<article class="col-md-6 col-sm-6 col-6">	
+			<h1>Make your<br> business<br> shine.</h1>	
+				<ul class="list-inline">
+				<li class="list-inline-item"><a href="#"><i class="lab la-facebook-f"></i></a></li>
+				<li class="list-inline-item"><a href="#"><i class="lab la-instagram"></i></a></li>
+				<li class="list-inline-item"><a href="#"><i class="lab la-twitter"></i></a></li>
+				<li class="list-inline-item"><a href="#"><i class="lab la-linkedin-in"></i></a></li>
+				</ul>
+				
+				</article>
+				
+				<article class="col-md-6 col-sm-6 col-6">
+				<h2>Subscribe</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur, neque!</p>
+<form method="post" action="#">
+<div class="mb-2 col-md-6 col-sm-12">
+<input name="Mail" type="text" class="form-control" placeholder="E-mail" required>
+</div>
+	</form>
+	</article>
+	</div>
+					
+	<div class="final">
+		
+	<p>All Rights Reserved - Melvin Ponce - Diseño Web I</p>
+		</div>
+</footer>
+	
+
+<!-- js -->
+<script src="js/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+
+</body>
+
+</html>
